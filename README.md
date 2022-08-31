@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ntruc123/ntruc123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**single/single** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
